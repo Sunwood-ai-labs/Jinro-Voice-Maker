@@ -1,5 +1,7 @@
 # Jinro Voice Maker
 
+![](https://github.com/user-attachments/assets/ed9d31d5-a5fb-4a35-abf7-7615a4c9c4fa)
+
 <div align="center">
   <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
